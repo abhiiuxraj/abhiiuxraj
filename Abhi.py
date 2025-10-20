@@ -156,8 +156,7 @@ sys.stdout.write('\x1b]2;𓆩【𝗔𝗕𝗛𝗜𝗜𝗨】𓆪 \x07')
     # ABHIIU SIINGH Logo - Speed - Version 2.5
 def pro_banner():
     color = NebulaColors()
-    return ('''
-print\x1b[1;91m 
+    return ('''print\x1b[1;91m 
 
 ________________(-ABHIIU -)__________________
 
